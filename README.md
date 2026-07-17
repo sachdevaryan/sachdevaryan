@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Aryan%20Sachdeva&fontSize=60&fontColor=C9B6FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20%26%20Backend%20Systems&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=650&lines=Building+scalable+AI+%2B+backend+systems;FastAPI+%7C+Django+%7C+RAG+%7C+LLMs;Chemical+Engineering+%40+IIT+Jodhpur;Turning+ideas+into+production-grade+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=650&lines=Building+scalable+AI+%2B+backend+systems;FastAPI+%7C+Django+%7C+RAG+%7C+LLMs;IIT+Jodhpur;Turning+ideas+into+production-grade+code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/IIT%20Jodhpur-Chemical%20Engineering-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
+![Education](https://img.shields.io/badge/IIT%20Jodhpur-2024%20--%202028-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
 ![CGPA](https://img.shields.io/badge/CGPA-8.03-8A2BE2?style=flat-square&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Roorkee%2C%20India-4B0082?style=flat-square&logo=mapbox&logoColor=white)
 
@@ -35,7 +35,7 @@
 ```yaml
 name: "Aryan Sachdeva"
 role: "AI Engineer @ Reoxide"
-education: "B.Tech Chemical Engineering, IIT Jodhpur (2024 – 2028)"
+education: "IIT Jodhpur (2024 – 2028)"
 focus:
   - Building production RAG systems and LLM-powered pipelines
   - Designing async, fault-tolerant backend architectures (FastAPI, Celery, Django)
