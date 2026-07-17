@@ -180,10 +180,10 @@ Built a full-stack healthcare booking platform from architecture through deploym
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sachdevaryan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DFF&icon_color=8A2BE2&text_color=C9C9C9" width="49%"/>
+<img src="https://github-readme-stats-sigma-black.vercel.app/api?username=sachdevaryan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DFF&icon_color=8A2BE2&text_color=C9C9C9" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=sachdevaryan&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=B39DFF&currStreakLabel=B39DFF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachdevaryan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DFF&text_color=C9C9C9" width="49%"/>
+<img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=sachdevaryan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B39DFF&text_color=C9C9C9" width="49%"/>
 
 </div>
 
@@ -193,7 +193,7 @@ Built a full-stack healthcare booking platform from architecture through deploym
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachdevaryan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy-nine-lyart.vercel.app/?username=sachdevaryan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
